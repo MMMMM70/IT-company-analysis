@@ -5,8 +5,6 @@ https://public.tableau.com/views/ITIT/ITIT?:embed=y&:display_count=yes
 https://public.tableau.com/views/IT_17/IT_2?:embed=y&:display_count=yes
 
 ```html
-<h2>Example of code</h2>
-
 <div class='tableauPlaceholder' id='viz1542723334780' style='position: relative'>
   <noscript>
     <a href='#'>
